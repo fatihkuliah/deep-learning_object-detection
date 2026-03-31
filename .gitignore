@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+archive
+archive.zip
+
+training-butterfly/results
+training-butterfly/butterfly image classification Fatih.zip
+
+training-butterfly/best_inception_v3.keras
+training-butterfly/best_simple_cnn.keras
