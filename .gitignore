@@ -17,3 +17,8 @@ training-butterfly/butterfly image classification Fatih.zip
 
 training-butterfly/best_inception_v3.keras
 training-butterfly/best_simple_cnn.keras
+
+training-vehicle/dataset
+training-butterfly/results\ localization
+
+pengumpulan_localization
